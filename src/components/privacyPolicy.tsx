@@ -1,5 +1,3 @@
-import React from "react";
-
 export const PrivacyPolicy = () => {
   return (
     <div className="p-6 max-w-3xl mx-auto text-gray-800">
